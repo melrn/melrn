@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @melrn
 
-- :office: I work with ABB robots.
+- 🏢 I work with ABB robots.
+
+- 🇳🇴 Norwegian
 
 <!---
 melrn/melrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
