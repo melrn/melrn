@@ -1,8 +1,8 @@
 👋 Hi, I’m Magnus
 
-<font color="red"> I work with robots </font>
+:godmode: I work with robots 
 
-Learning html
+:baby_symbol: Learning html
 
 <!---
 melrn/melrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
